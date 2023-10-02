@@ -1,6 +1,5 @@
 ### Me Naomi, me 42, me code :)
-![](https://komarev.com/ghpvc/?username=your-github-username)
-
+![](https://hit.yhype.me/github/profile?user_id=119932323)
 <!--
 **NaomiH42/NaomiH42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
